@@ -1,3 +1,8 @@
 # my first repo
-- NOTHING
+- BCC_INTERN
+- index.html
+- assets
+- images
+- css
+- docs
 
